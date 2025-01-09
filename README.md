@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/kUiw1cKIS9j8hT3iy0/giphy.gif" alt="Cartoon Coder" width="80%" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cartoon Coder" width="80%" />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 - 🎓 Final Year B.Tech in CSE.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/llHiECdeFcshmZFCe2/giphy.gif" alt="Cartoon Coder with Laptop" width="300px"/>
+  <img src="https://media.giphy.com/media/5xaOcLdpbnqShxLvyy/giphy.gif" alt="Cartoon Coder with Laptop" width="300px"/>
 </div>
 
 ---
@@ -24,7 +24,7 @@
 | C, C++, Python, Java       | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | Node.js, Express.js | MongoDB, SQL    | Git, GitHub     |
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYQ4tRIy9sAsGOU/giphy.gif" alt="Animated Code GIF" width="250px"/>
+  <img src="https://media.giphy.com/media/6QyfcQnzkwX6hFhXbP/giphy.gif" alt="Animated Code GIF" width="250px"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/cXTYG9A3XaqzlhcE8M/giphy.gif" alt="Coder Animation" width="300px"/>
+  <img src="https://media.giphy.com/media/PLTEX8XlKcQ0OlXujP/giphy.gif" alt="Coder Animation" width="300px"/>
 </div>
 
 ---
@@ -60,9 +60,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/wJ5UgZyHCewLJk8iY7/giphy.gif" alt="Animated Coding Fun" width="60%">
+  <img src="https://media.giphy.com/media/RVlzUHFuERbEuDXV8T/giphy.gif" alt="Coding Fun Animation" width="60%">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohhwOHDcXEKqX9JrS/giphy.gif" alt="Coding with Fun" width="50%">
+  <img src="https://media.giphy.com/media/PLt4T9fdIkzWs/giphy.gif" alt="Animated Fun" width="50%">
 </div>
