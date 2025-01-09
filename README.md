@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Rajiv Ranjan!**
 
-![Profile Banner](https://user-images.githubusercontent.com/banner-placeholder)
+![Profile Banner](https://your-image-url.com/banner.jpg)
 
 ---
 
