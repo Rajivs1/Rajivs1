@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/banner-image.jpg" alt="Rajiv's Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rajivs1/my-repository/main/banner-image.jpg" alt="Rajiv's Profile Banner" width="100%" />
 </div>
 
 ---
@@ -31,8 +31,8 @@
 
 ## 📊 Stats & Contributions
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajivranjan&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajivranjan&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajivs1&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=Rajivs1&theme=radical" alt="GitHub Streak" width="48%">
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@
 
 ---
 
-### ✨ Fun Animations
+### ✨ More About Me 😎
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Coder+%26+Developer;Cricket+Lover+%7C+Tech+Enthusiast" alt="Typing SVG">
 </div>
