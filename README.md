@@ -1,6 +1,8 @@
-# Hi there 👋, I'm **Rajiv Ranjan!**
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
 
-![Profile Banner](https://your-image-url.com/banner.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rajivs1/your-repository/main/banner-image.jpg" alt="Rajiv's Profile Banner" width="100%" />
+</div>
 
 ---
 
@@ -11,13 +13,12 @@
 - 🎓 Final Year B.Tech in CSE.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder Cartoon" width="300px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder Cartoon" width="300px"/>
 </div>
 
 ---
 
 ## ⚡ Technologies
-
 | **Programming Languages** | **Frontend**              | **Backend**           | **Database**    | **Other**       |
 |----------------------------|---------------------------|------------------------|-----------------|-----------------|
 | C, C++, Python, Java       | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | Node.js, Express.js | MongoDB, SQL    | Git, GitHub     |
@@ -30,8 +31,8 @@
 
 ## 📊 Stats & Contributions
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajivranjan&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajivranjan&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajivs1&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajivs1&theme=radical" alt="GitHub Streak" width="48%">
 </div>
 
 <div align="center">
@@ -41,14 +42,15 @@
 ---
 
 ## 🌐 My Portfolio
-[Visit My Portfolio Website](https://rajivrsportfolio.netlify.app/)
+- [Visit My Portfolio Website](https://rajivrsportfolio.netlify.app/)
 
 ---
 
 ## 📫 How to Reach Me
+- **WhatsApp**: [Chat with Me](https://wa.me/8521982915)
 - **LinkedIn**: [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan1)
 - **Email**: [rajeev04632@gmail.com](mailto:rajeev04632@gmail.com)
-- **GitHub**: [rajivranjan](https://github.com/rajivranjan)
+- **GitHub**: [Rajivs1](https://github.com/Rajivs1)
 
 ---
 
@@ -60,20 +62,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="60%">
 </div>
-
-
-
-<!--
-**Rajivs1/Rajivs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
