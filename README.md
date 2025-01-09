@@ -1,9 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rajivs1/my-repository/main/banner-image.jpg" alt="Rajiv's Profile Banner" width="100%" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -32,7 +28,7 @@
 ## 📊 Stats & Contributions
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajivs1&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=Rajivs1&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajivs1&theme=radical" alt="GitHub Streak" width="48%">
 </div>
 
 <div align="center">
