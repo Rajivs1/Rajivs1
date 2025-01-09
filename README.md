@@ -37,11 +37,11 @@
 
 ---
 
-## 🌐 My Portfolio
+## 🌐 My Portfolio & Social Links
 
 <div align="center">
   <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Portfolio Animation" width="300px"/>
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Portfolio Animation" width="300px"/>
   </a>
 </div>
 
@@ -51,19 +51,22 @@
   </a>
 </p>
 
+---
+
+### 🌟 Explore My Social Links:
+
+<div align="center">
+  <a href="https://linktr.ee/rajiv_01" target="_blank">
+    <img src="https://media.giphy.com/media/3oEjHV0z8tzyExC0dW/giphy.gif" alt="Social Links Animation" width="200px"/>
+  </a>
+</div>
+
 <p align="center">
-  <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
-    <button style="font-size:20px; background-color:#28a745; color:white; padding:15px 30px; border-radius:5px; border:none; cursor:pointer; transition: transform 0.3s ease; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);">
-      Visit My Portfolio 🚀
-    </button>
+  <a href="https://linktr.ee/rajiv_01" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Explore%20My%20Links-%23ffcd3c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge" width="200px"/>
   </a>
 </p>
 
-
-
----
-
-## 📫 How to Reach Me
 - **LinkedIn**: [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan1)
 - **Email**: [rajeev04632@gmail.com](mailto:rajeev04632@gmail.com)
 - **GitHub**: [rajivranjan](https://github.com/rajivranjan)
