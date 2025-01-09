@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Razorpay Clone** and **StudyNotion**.
+- 🔭 I’m currently working on **My new project** and **StudyNotion**.
 - 🌱 I’m learning **Data Structures, Algorithms, and Backend Development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, C, C++, Python, and Cricket**.
 - 🎓 Final Year B.Tech in CSE.
@@ -56,9 +56,13 @@
 
 ### ✨ Fun Animations
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Coder+%26+Developer;Cricket+Lover+%7C+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF5722&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+Rajiv's+GitHub+Profile;Passionate+Full-Stack+Developer;Lifelong+Learner+%26+Problem+Solver;Cricket+Enthusiast+%7C+Tech+Lover+🎯" alt="Typing SVG">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="60%">
+  <img src="https://media.giphy.com/media/fwbzI2V8ZeZnEFQyJD/giphy.gif" alt="Animated Fun Section" width="60%">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Keep Scrolling Fun" width="50%">
 </div>
