@@ -10,6 +10,10 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, C, C++, Python, and Cricket**.
 - 🎓 Final Year B.Tech in CSE.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder Cartoon" width="300px"/>
+</div>
+
 ---
 
 ## ⚡ Technologies
@@ -18,12 +22,20 @@
 |----------------------------|---------------------------|------------------------|-----------------|-----------------|
 | C, C++, Python, Java       | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | Node.js, Express.js | MongoDB, SQL    | Git, GitHub     |
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Technology Cartoon" width="250px"/>
+</div>
+
 ---
 
 ## 📊 Stats & Contributions
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajivranjan&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rajivranjan&theme=radical" alt="GitHub Streak" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Fun" width="300px"/>
 </div>
 
 ---
@@ -46,8 +58,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/rajivranjan/rajivranjan/raw/main/code.gif" alt="Coding Animation" width="60%">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="60%">
 </div>
+
 
 
 <!--
