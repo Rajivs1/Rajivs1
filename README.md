@@ -1,19 +1,19 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
 
 <div align="center">
-  <img src="https://i.imgur.com/5Irh5hS.png" alt="Rajiv's Profile Banner" width="100%" />
+  <img src="https://media.giphy.com/media/llHiECdeFcshmZFCe2/giphy.gif" alt="Animated Code GIF" width="80%" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **My new project** and **StudyNotion**.
+- 🔭 I’m currently working on **Razorpay Clone** and **StudyNotion**.
 - 🌱 I’m learning **Data Structures, Algorithms, and Backend Development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, C, C++, Python, and Cricket**.
 - 🎓 Final Year B.Tech in CSE.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder Cartoon" width="300px"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coder Cartoon" width="300px"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Fun" width="300px"/>
+  <img src="https://media.giphy.com/media/ZgB2rPVF7vO1A9GfJw/giphy.gif" alt="Code Animation" width="300px"/>
 </div>
 
 ---
