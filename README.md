@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cartoon Coder" width="80%" />
+  <img src="https://media.giphy.com/media/llHiECdeFcshmZFCe2/giphy.gif" alt="Animated Code GIF" width="80%" />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 - 🎓 Final Year B.Tech in CSE.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5xaOcLdpbnqShxLvyy/giphy.gif" alt="Cartoon Coder with Laptop" width="300px"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coder Cartoon" width="300px"/>
 </div>
 
 ---
@@ -24,7 +24,7 @@
 | C, C++, Python, Java       | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | Node.js, Express.js | MongoDB, SQL    | Git, GitHub     |
 
 <div align="center">
-  <img src="https://media.giphy.com/media/6QyfcQnzkwX6hFhXbP/giphy.gif" alt="Animated Code GIF" width="250px"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Technology Cartoon" width="250px"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/PLTEX8XlKcQ0OlXujP/giphy.gif" alt="Coder Animation" width="300px"/>
+  <img src="https://media.giphy.com/media/ZgB2rPVF7vO1A9GfJw/giphy.gif" alt="Code Animation" width="300px"/>
 </div>
 
 ---
@@ -56,13 +56,13 @@
 
 ### ✨ Fun Animations
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF5722&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+Rajiv's+GitHub+Profile;Passionate+Full-Stack+Developer;Lifelong+Learner+%26+Problem+Solver;Cricket+Enthusiast+%7C+Tech+Lover+🎯" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF5722&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+Rajiv's+GitHub+Profile;Passionate+Full-Stack+Developer;Lifelong+Learner+%26+Problem+Solver;Cricket+Enthusiast+%7C+Tech+Lover+🎯" alt="Typing SVG">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RVlzUHFuERbEuDXV8T/giphy.gif" alt="Coding Fun Animation" width="60%">
+  <img src="https://media.giphy.com/media/fwbzI2V8ZeZnEFQyJD/giphy.gif" alt="Animated Fun Section" width="60%">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/PLt4T9fdIkzWs/giphy.gif" alt="Animated Fun" width="50%">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Keep Scrolling Fun" width="50%">
 </div>
