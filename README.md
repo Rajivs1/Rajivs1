@@ -53,21 +53,12 @@
 
 <p align="center">
   <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
-    <button style="font-size:20px; background-color:#28a745; color:white; padding:15px 30px; border-radius:5px; border:none; cursor:pointer; transition: transform 0.3s ease;">
+    <button style="font-size:20px; background-color:#28a745; color:white; padding:15px 30px; border-radius:5px; border:none; cursor:pointer; transition: transform 0.3s ease; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);">
       Visit My Portfolio 🚀
     </button>
   </a>
 </p>
 
-<script>
-  const button = document.querySelector('button');
-  button.addEventListener('mouseover', () => {
-    button.style.transform = 'scale(1.1)';
-  });
-  button.addEventListener('mouseout', () => {
-    button.style.transform = 'scale(1)';
-  });
-</script>
 
 
 ---
