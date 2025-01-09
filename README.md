@@ -28,7 +28,7 @@
 ## 📊 Stats & Contributions
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajivs1&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajivs1&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajivs1&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
 
 <div align="center">
