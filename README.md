@@ -67,13 +67,37 @@
   </a>
 </p>
 
-- **LinkedIn**: [Rajiv Ranjan](https://www.linkedin.com/in/rajiv-ranjan1)
-- **Email**: [rajeev04632@gmail.com](mailto:rajeev04632@gmail.com)
-- **GitHub**: [rajivranjan](https://github.com/rajivranjan)
-
 ---
 
-### ✨ More About Me 😎
+### 📫 How to Reach Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajiv-ranjan1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:rajeev04632@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Write%20to%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="200px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rajivs1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" width="200px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/8521982915" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" width="200px"/>
+  </a>
+</p>
+      
+--
+
+### ✨ More about me 😎
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Coder+%26+Developer;Cricket+Lover+%7C+Tech+Enthusiast" alt="Typing SVG">
 </div>
