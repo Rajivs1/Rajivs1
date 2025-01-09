@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/llHiECdeFcshmZFCe2/giphy.gif" alt="Animated Code GIF" width="80%" />
+  <img src="https://media.giphy.com/media/PLTEX8XlKcQ0OlXujP/giphy.gif" alt="Coding Cartoon" width="80%" />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 - 🎓 Final Year B.Tech in CSE.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coder Cartoon" width="300px"/>
+  <img src="https://media.giphy.com/media/jDOgCAcDLpZk0Lz5od/giphy.gif" alt="Cartoon Coder" width="300px"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZgB2rPVF7vO1A9GfJw/giphy.gif" alt="Code Animation" width="300px"/>
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Code Animation" width="300px"/>
 </div>
 
 ---
@@ -60,9 +60,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fwbzI2V8ZeZnEFQyJD/giphy.gif" alt="Animated Fun Section" width="60%">
+  <img src="https://media.giphy.com/media/5xaOcLdpbnqShxLvyy/giphy.gif" alt="Animated Fun Section" width="60%">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Keep Scrolling Fun" width="50%">
+  <img src="https://media.giphy.com/media/tvYn54h0yxmf2fOM9b/giphy.gif" alt="Keep Scrolling Fun" width="50%">
 </div>
