@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Razorpay Clone** and **StudyNotion**.
+- 🔭 I’m currently working on **My new Project** and **StudyNotion**.
 - 🌱 I’m learning **Data Structures, Algorithms, and Backend Development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, C, C++, Python, and Cricket**.
 - 🎓 Final Year B.Tech in CSE.
