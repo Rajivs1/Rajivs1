@@ -38,7 +38,37 @@
 ---
 
 ## 🌐 My Portfolio
-- [Visit My Portfolio Website](https://rajivrsportfolio.netlify.app/)
+
+<div align="center">
+  <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Portfolio Animation" width="300px"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" width="200px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
+    <button style="font-size:20px; background-color:#28a745; color:white; padding:15px 30px; border-radius:5px; border:none; cursor:pointer; transition: transform 0.3s ease;">
+      Visit My Portfolio 🚀
+    </button>
+  </a>
+</p>
+
+<script>
+  const button = document.querySelector('button');
+  button.addEventListener('mouseover', () => {
+    button.style.transform = 'scale(1.1)';
+  });
+  button.addEventListener('mouseout', () => {
+    button.style.transform = 'scale(1)';
+  });
+</script>
+
 
 ---
 
