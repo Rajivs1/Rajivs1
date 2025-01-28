@@ -33,7 +33,7 @@
 
 ### 🔥 Longest Streak
 <div align="center">
-  <img src="(https://streak-stats.demolab.com?user=Rajivs1&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak Stats" width="80%")(https://git.io/streak-stats)">
+  <img src="https://streak-stats.demolab.com?user=Rajivs1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="80%">
 </div>
 
 <div align="center">
