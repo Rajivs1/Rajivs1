@@ -33,8 +33,9 @@
 
 ### 🔥 Longest Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajivs1&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="80%">
+  <img src="https://img.shields.io/badge/Longest%20Streak-🔥%2020%20days-orange?style=for-the-badge" alt="Longest Streak Badge">
 </div>
+
 
 
 <div align="center">
