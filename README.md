@@ -31,6 +31,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajivs1&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
 
+### 🔥 Longest Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajivs1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="80%">
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajivs1&style=flat-square&color=brightgreen" alt="Profile View Counter" width="140px"/>
 </div>
