@@ -32,6 +32,10 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajivs1&style=flat-square&color=brightgreen" alt="Profile View Counter" width="140px"/>
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Fun" width="300px"/>
 </div>
 
@@ -95,7 +99,7 @@
   </a>
 </p>
       
---
+---
 
 ### ✨ More about me 😎
 <div align="center">
