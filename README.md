@@ -33,7 +33,7 @@
 
 ### 🔥 Longest Streak
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?Rajivs1=DenverCoder1)](https://git.io/streak-stats)" alt="GitHub Streak Stats" width="80%">
+  <img src="(https://streak-stats.demolab.com?user=Rajivs1&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak Stats" width="80%">
 </div>
 
 <div align="center">
