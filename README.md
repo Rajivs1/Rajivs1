@@ -1,104 +1,118 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub README</title>
-    <style>
-        @keyframes floatEffect {
-            0% { transform: translateY(0); }
-            50% { transform: translateY(-8px); }
-            100% { transform: translateY(0); }
-        }
-        body {
-            font-family: Arial, sans-serif;
-            transition: background-color 0.3s, color 0.3s;
-        }
-        .floating {
-            display: inline-block;
-            animation: floatEffect 2s ease-in-out infinite;
-            font-size: 26px;
-            font-weight: bold;
-        }
-        .dark-mode {
-            background-color: #121212;
-            color: #ffffff;
-        }
-        .light-mode {
-            background-color: #ffffff;
-            color: #000000;
-        }
-        .toggle-btn {
-            margin: 20px;
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            border: none;
-            border-radius: 5px;
-        }
-        .dark-btn {
-            background-color: #ffffff;
-            color: #121212;
-        }
-        .light-btn {
-            background-color: #121212;
-            color: #ffffff;
-        }
-    </style>
-</head>
-<body class="light-mode">
-    <button class="toggle-btn light-btn" onclick="toggleTheme()">Switch to Dark Mode</button>
-    <h1 class="floating">Hi there 👋, I'm <b>Rajiv Ranjan!</b></h1>
-    
-    <h2>👨‍💻 About Me</h2>
-    <ul>
-        <li>🔭 I’m currently working on <b>My new Project</b> and <b>StudyNotion</b>.</li>
-        <li>🌱 I’m learning <b>Data Structures, Algorithms, and Backend Development</b>.</li>
-        <li>💬 Ask me about <b>HTML, CSS, JavaScript, MERN Stack, C, C++, Python, and Cricket</b>.</li>
-        <li>🎓 Final Year B.Tech in CSE.</li>
-    </ul>
-    
-    <h2>⚡ Technologies</h2>
-    <table border="1">
-        <tr>
-            <th>Programming Languages</th>
-            <th>Frontend</th>
-            <th>Backend</th>
-            <th>Database</th>
-            <th>Other</th>
-        </tr>
-        <tr>
-            <td>C, C++, Python, Java</td>
-            <td>HTML, CSS, Tailwind CSS, Bootstrap, JavaScript</td>
-            <td>Node.js, Express.js</td>
-            <td>MongoDB, SQL</td>
-            <td>Git, GitHub</td>
-        </tr>
-    </table>
-    
-    <h2>📫 How to Reach Me</h2>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/rajiv-ranjan1" target="_blank">LinkedIn</a></li>
-        <li><a href="mailto:rajeev04632@gmail.com">Email</a></li>
-        <li><a href="https://github.com/Rajivs1" target="_blank">GitHub</a></li>
-        <li><a href="https://wa.me/8521982915" target="_blank">WhatsApp</a></li>
-    </ul>
-    
-    <script>
-        function toggleTheme() {
-            const body = document.body;
-            const button = document.querySelector(".toggle-btn");
-            
-            if (body.classList.contains("light-mode")) {
-                body.classList.replace("light-mode", "dark-mode");
-                button.textContent = "Switch to Light Mode";
-                button.classList.replace("light-btn", "dark-btn");
-            } else {
-                body.classList.replace("dark-mode", "light-mode");
-                button.textContent = "Switch to Dark Mode";
-                button.classList.replace("dark-btn", "light-btn");
-            }
-        }
-    </script>
-</body>
-</html>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
+
+---
+
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **My new Project** and **StudyNotion**.
+- 🌱 I’m learning **Data Structures, Algorithms, and Backend Development**.
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, C, C++, Python, and Cricket**.
+- 🎓 Final Year B.Tech in CSE.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder Cartoon" width="300px"/>
+</div>
+
+---
+
+## ⚡ Technologies
+| **Programming Languages** | **Frontend**              | **Backend**           | **Database**    | **Other**       |
+|----------------------------|---------------------------|------------------------|-----------------|-----------------|
+| C, C++, Python, Java       | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript | Node.js, Express.js | MongoDB, SQL    | Git, GitHub     |
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Technology Cartoon" width="250px"/>
+</div>
+
+---
+
+## 📊 Stats & Contributions
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajivs1&show_icons=true&theme=radical" alt="Rajiv's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajivs1&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</div>
+
+### 🔥 Longest Streak
+<div align="center">
+  <img src="https://img.shields.io/badge/Longest%20Streak-🔥%2020%20days-orange?style=for-the-badge" alt="Longest Streak Badge">
+</div>
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajivs1&style=flat-square&color=brightgreen" alt="Profile View Counter" width="140px"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Fun" width="300px"/>
+</div>
+
+---
+
+## 🌐 My Portfolio & Social Links
+
+<div align="center">
+  <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Portfolio Animation" width="300px"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://rajivrsportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" width="200px"/>
+  </a>
+</p>
+
+---
+
+### 🌟 Explore My Social Links:
+
+<div align="center">
+  <a href="https://linktr.ee/rajiv_01" target="_blank">
+    <img src="https://media.giphy.com/media/3oEjHV0z8tzyExC0dW/giphy.gif" alt="Social Links Animation" width="200px"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://linktr.ee/rajiv_01" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Explore%20My%20Links-%23ffcd3c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge" width="200px"/>
+  </a>
+</p>
+
+---
+
+### 📫 How to Reach Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajiv-ranjan1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:rajeev04632@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Write%20to%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="200px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rajivs1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" width="200px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/8521982915" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" width="200px"/>
+  </a>
+</p>
+      
+---
+
+### ✨ More about me 😎
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Coder+%26+Developer;Cricket+Lover+%7C+Tech+Enthusiast" alt="Typing SVG">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="60%">
+</div>
