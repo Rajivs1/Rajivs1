@@ -114,5 +114,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="60%">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" width="40%" height="40%">
 </div>
