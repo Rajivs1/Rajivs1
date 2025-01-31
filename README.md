@@ -1,4 +1,6 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Rajiv Ranjan!**
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <strong>Hi there, I'm Rajiv Ranjan!</strong>
+</p>
 
 ---
 
@@ -35,8 +37,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Longest%20Streak-🔥%2020%20days-orange?style=for-the-badge" alt="Longest Streak Badge">
 </div>
-
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajivs1&style=flat-square&color=brightgreen" alt="Profile View Counter" width="140px"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" width="200px"/>
   </a>
 </p>
-      
+
 ---
 
 ### ✨ More about me 😎
