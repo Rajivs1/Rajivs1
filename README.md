@@ -5,6 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
+- 😎 **CSE** Final Year Student...Looking for jobs  😊
 - 🔭 I’m currently working on **My new Project** and **StudyNotion**.
 - 🌱 I’m learning **Data Structures, Algorithms, and Backend Development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack, C, C++, Python, and Cricket**.
