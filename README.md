@@ -12,49 +12,86 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> **ABOUT THE LEGEND**
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> **ABOUT ME**
 
-<img align="right" alt="Coding Wizard" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+      </td>
+      <td width="50%" valign="top">
+        <h3><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Hello World! I'm Rajiv Ranjan</h3>
+        
+        <p><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> <strong>Full Stack Mobile Architect</strong> from India 🇮🇳</p>
+        <p><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="20"> Passionate about crafting digital experiences that make a difference</p>
+        
+        <h4><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> What I Do:</h4>
+        <ul>
+          <li>📱 Build stunning mobile apps with <strong>React Native</strong></li>
+          <li>🌐 Create responsive web applications</li>
+          <li>🎨 Design pixel-perfect user interfaces</li>
+          <li>⚡ Optimize performance and user experience</li>
+          <li>🔧 Architect scalable backend solutions</li>
+          <li>☁️ Deploy apps on cloud platforms</li>
+        </ul>
+        
+        <h4><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="25"> My Expertise:</h4>
+        <ul>
+          <li>🚀 <strong>Mobile Development:</strong> React Native, Expo, Android, iOS</li>
+          <li>💻 <strong>Frontend:</strong> React, Next.js, Vue.js, Tailwind CSS</li>
+          <li>🛠️ <strong>Backend:</strong> Node.js, Express, MongoDB, PostgreSQL</li>
+          <li>🎨 <strong>Design:</strong> Figma, Adobe XD, Principle</li>
+          <li>☁️ <strong>Cloud:</strong> AWS, Vercel, Firebase, Netlify</li>
+        </ul>
+        
+        <h4><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Beyond Code:</h4>
+        <ul>
+          <li>🏏 Cricket strategist and sports analyst</li>
+          <li>☕ Coffee brewing enthusiast</li>
+          <li>🧩 Problem-solving addict</li>
+          <li>📚 Continuous learner exploring AI & Web3</li>
+          <li>🌟 Open source contributor</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```javascript
-class RajivRanjan extends Developer {
-  constructor() {
-    super();
-    this.name = "Rajiv Ranjan";
-    this.role = "Full Stack Mobile Architect";
-    this.location = "India 🇮🇳";
-    this.languages = ["JavaScript", "TypeScript", "C++"];
-    this.passion = "Crafting Digital Masterpieces";
-    this.motto = "Code is Poetry in Motion";
-    this.currentStatus = "Building the Future, One App at a Time";
-  }
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+</div>
 
-  getSkills() {
-    return {
-      mobile: ["React Native", "Expo", "Android", "iOS"],
-      frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-      backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-      design: ["Figma", "Adobe XD", "Principle", "Framer"],
-      cloud: ["AWS", "Vercel", "Firebase", "Netlify"],
-      superpowers: ["Problem Solving", "Cricket Analysis", "Coffee Brewing"]
-    };
-  }
+<div align="center">
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30"> My Philosophy & Mission</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80"/>
+        <h4>💭 Philosophy</h4>
+        <p><em>"Code is Poetry in Motion"</em></p>
+        <small>Every line should tell a story</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+        <h4>🎯 Mission</h4>
+        <p><em>"Building the Future"</em></p>
+        <small>One app at a time</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7781db.gif" width="80"/>
+        <h4>🌟 Goal</h4>
+        <p><em>"Create Impact"</em></p>
+        <small>Technology that matters</small>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  getCurrentMission() {
-    return "Building apps that users love and developers admire! 🚀";
-  }
-
-  getLifeGoal() {
-    return "To create technology that makes life easier and more beautiful! ✨";
-  }
-}
-
-const me = new RajivRanjan();
-console.log(me.getCurrentMission());
-console.log(me.getLifeGoal());
-```
-
-<br clear="both"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Always+Learning+New+Technologies+%F0%9F%9A%80;Building+Apps+That+Users+Love+%E2%9D%A4%EF%B8%8F;Turning+Ideas+Into+Reality+%E2%9C%A8;Coffee+%2B+Code+%3D+Magic+%E2%98%95;Ready+for+Next+Challenge+%F0%9F%94%A5" alt="Typing Animation" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28706553ee.gif" width="100%" height="3">
 
@@ -169,8 +206,9 @@ console.log(me.getLifeGoal());
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%"/>
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:E17055,25:FDCB6E,50:6C5CE7,75:A29BFE,100:FD79A8&height=80&section=header&text=🌟%20CONNECT%20%26%20COLLABORATE&fontSize=35&fontColor=FFFFFF&animation=blinking" />
