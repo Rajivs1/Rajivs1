@@ -77,36 +77,32 @@ My toolbox is filled with the latest and greatest technologies to build modern, 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
-## 🏆 **Spotlight Projects**
-Here are some of the projects I'm most proud of.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6C5CE7,25:A29BFE,50:74B9FF,75:0984E3,100:00CEC9&height=80&section=header&text=🚀%20MY%20CURRENT%20ORBIT&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
+</div>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Project Name 1</h3>
-      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://via.placeholder.com/1280x640/0D1117/FFFFFF?text=Your+Project+Screenshot" alt="Project 1 Screenshot"/></a>
-      <p>A brief, compelling description of your project. What problem does it solve? What makes it cool?</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,mongodb" />
-      </p>
-      <p align="center">
-        <a href="YOUR_REPO_LINK_HERE"><strong>View Code →</strong></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="YOUR_LIVE_DEMO_LINK_HERE"><strong>Live Demo →</strong></a>
-      </p>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120"/>
+      <br><br>
+      <strong>📱 Next-Gen Mobile UI/UX</strong>
+      <br>
+      <small>Crafting fluid, intuitive, and high-performance mobile experiences with advanced animations and native module integrations in React Native.</small>
     </td>
-    <td width="50%" valign="top">
-      <h3>Project Name 2</h3>
-      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://via.placeholder.com/1280x640/0D1117/FFFFFF?text=Your+Project+Screenshot" alt="Project 2 Screenshot"/></a>
-      <p>A brief, compelling description of your project. What problem does it solve? What makes it cool?</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,graphql,postgresql,prisma,vercel" />
-      </p>
-      <p align="center">
-        <a href="YOUR_REPO_LINK_HERE"><strong>View Code →</strong></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="YOUR_LIVE_DEMO_LINK_HERE"><strong>Live Demo →</strong></a>
-      </p>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120"/>
+      <br><br>
+      <strong>🌐 AI & Web3 Integration</strong>
+      <br>
+      <small>Exploring on-device machine learning models with TensorFlow.js and integrating decentralized technologies for the next wave of applications.</small>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="120"/>
+      <br><br>
+      <strong>⚡ Performance Engineering</strong>
+      <br>
+      <small>Diving deep into application profiling, optimizing bundle sizes, and architecting lightning-fast APIs to deliver seamless user experiences at scale.</small>
     </td>
   </tr>
 </table>
