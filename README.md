@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=150&text=RAJIV%20RANJAN&fontSize=60&fontColor=2C3E50&animation=blinking&stroke=2C3E50&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=180&text=RAJIV%20RANJAN&fontSize=70&fontColor=2C3E50&animation=fadeIn&stroke=2C3E50&strokeWidth=2" />
 </div>
 
 <div align="center">
